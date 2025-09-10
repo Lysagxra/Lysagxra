@@ -25,8 +25,8 @@ Hello, and thanks for visiting!
 <!--- -- GitHub Stats -------------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-<p align="left"><img
-                src="https://github-readme-stats.vercel.app/api?username=lysagxra&show_icons=true&theme=tokyonight&hide_border=true&width=100%&locale=en"
-                alt="lysagxra" height="170" /></p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lysagxra&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+</p>
 
 <img src="https://img.shields.io/github/followers/lysagxra?style=social&amp;label=Follow" />
