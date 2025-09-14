@@ -26,7 +26,7 @@ Hello, and thanks for visiting!
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lysagxra&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&show=discussions_answered" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Lysagxra&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&show=discussions_answered,reviews" />
 </p>
 
 <img src="https://img.shields.io/github/followers/lysagxra?style=social&amp;label=Follow" />
