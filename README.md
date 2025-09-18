@@ -38,11 +38,15 @@ Hello, and thanks for visiting!
 <!--- -- GitHub Stats -------------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
+---
+
 <p align="left">
   <img src="https://github-stats-ebon-three.vercel.app/api?username=lysagxra&hide_title=false&hide_rank=false&show_icons=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1&show=discussions_answered,reviews" />
 </p>
 
+<!--
 <img src="https://img.shields.io/github/followers/lysagxra?style=social&amp;label=Follow" />
+-->
 
 ---
 
