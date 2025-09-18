@@ -25,8 +25,10 @@ Hello, and thanks for visiting!
 <!--- -- GitHub Stats -------------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
+<!--
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Lysagxra&show_icons=true&theme=react&bg_color=0D1117&show=discussions_answered,reviews" />
 </p>
+-->
 
 <img src="https://img.shields.io/github/followers/lysagxra?style=social&amp;label=Follow" />
