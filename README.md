@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90"/>
 </p>
 
 <!--
@@ -43,13 +43,13 @@ Hello, and thanks for visiting!
 ---
 
 <p align="left">
-  <img src="https://github-stats-ebon-three.vercel.app/api?username=lysagxra&hide_title=false&hide_rank=false&show_icons=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1&show=discussions_answered,reviews" />
+    <img src="https://github-stats-ebon-three.vercel.app/api?username=lysagxra&hide_title=false&hide_rank=false&show_icons=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1&show=discussions_answered,reviews" />
 </p>
 
 ---
 
 <p align='center'>
-<img src="https://github-profile-trophy.vercel.app/?username=lysagxra&theme=dracula&no-frame=true&margin-w=15&margin-h=15">
+  <img src="https://github-profile-trophy.vercel.app/?username=lysagxra&theme=dracula&no-frame=true&margin-w=15&margin-h=15">
 </p>
 
 <!--
@@ -63,5 +63,5 @@ Hello, and thanks for visiting!
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90"/>
 </p>
