@@ -43,7 +43,7 @@ Hello, and thanks for visiting!
 ---
 
 <p align="left">
-    <img src="https://github-stats-ebon-three.vercel.app/api?username=lysagxra&hide_title=false&hide_rank=false&show_icons=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1&show=discussions_answered,reviews" />
+    <img src="https://github-readme-stats-drab-phi-35.vercel.app/api?username=lysagxra&hide_title=false&hide_rank=false&show_icons=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1&show=discussions_answered,reviews" />
 </p>
 
 ---
