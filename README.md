@@ -49,7 +49,7 @@ Hello, and thanks for visiting!
 ---
 
 <p align='center'>
-  <img src="https://github-profile-trophy.vercel.app/?username=lysagxra&theme=dracula&no-frame=true&margin-w=15&margin-h=15">
+  <img src="https://stable-github-profile-trophy.vercel.app/?username=lysagxra&theme=dracula&no-frame=true&margin-w=15&margin-h=15">
 </p>
 
 <!--
