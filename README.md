@@ -11,7 +11,7 @@
 </div>
 -->
 
-## Hi there 👋
+## Welcome! 👋
 
 <!--
 **Lysagxra/Lysagxra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -34,7 +34,16 @@ Here are some ideas to get you started:
 
 Hello, and thanks for visiting! 
 
-<img src="https://img.shields.io/github/followers/lysagxra?style=social&amp;label=Follow" />
+<img src="https://img.shields.io/github/followers/lysagxra?style=social&label=Follow" />
+
+
+If you enjoy my work and would like to support what I do, you can buy me a coffee ☕<br>
+
+<p>
+  <a href="https://ko-fi.com/X8X51WX40Q">
+    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi" />
+  </a>
+</p>
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- GitHub Stats -------------------------------------------------------------------------------------------------------------------------------------- -->
