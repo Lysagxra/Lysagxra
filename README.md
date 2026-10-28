@@ -52,7 +52,7 @@ If you enjoy my work and would like to support what I do, you can buy me a coffe
 ---
 
 <p align="left">
-    <img src="https://github-readme-stats-fast.vercel.app/api?username=lysagxra&hide_title=false&hide_rank=false&show_icons=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1&show=discussions_answered,reviews" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Lysagxra&show_icons=true&theme=react&bg_color=0D1117&show=discussions_answered,reviews" />
 </p>
 
 ---
